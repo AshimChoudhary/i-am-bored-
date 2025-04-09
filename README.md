@@ -1,0 +1,1 @@
+This is an Project based on Api from App Brewery where you can pull 100 requests in 15 minutes, In this project you can find random things you can do using the API and Enjoy and dont forget to install all the Node modules too
